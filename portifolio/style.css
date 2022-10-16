@@ -5,7 +5,7 @@
     display: grid;
     grid-template-columns: repeat(2,1fr);
 }
-
+/* The body specifies the sector to which the design shall be placed  */
 body{
     margin: 0;
     padding: 0;
